@@ -1,5 +1,5 @@
 # 🚀 Nicolas Larenas - AI & Veterinary Visionary 🌌  
-![Dynamic Neural Network Banner](assets/banner.png) 
+![Neural Network Banner](assets/Neural-Networks.gif) 
 
 ---
 
