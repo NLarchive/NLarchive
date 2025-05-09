@@ -60,5 +60,4 @@ I’m passionate about building **AI systems**, crafting **interactive storytell
 ## 📬 Let’s Connect  
 
 - 🌐 Website: [nlarchive.com](https://nlarchive.com)  
-- 🐦 Twitter: [@NLarchive](https://twitter.com/NLarchive)  
-- 📧 Email: [Contact Me](mailto:nicolas@nlarchive.com)  
+- 🗣️ Linkedin: [Contact Me](https://www.linkedin.com/in/nicolas-larenas-596125230/)  
