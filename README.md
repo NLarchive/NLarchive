@@ -1,7 +1,5 @@
 # 🚀 Nicolas Larenas - AI & Veterinary Visionary 🌌  
-![Dynamic Neural Network Banner](assets/banner-screenshot.png)  
-
-Want to see my **interactive neural network banner** in action? [Click here!](https://nlarchive.github.io/NLarchive/dynamic-banner.html)  
+![Dynamic Neural Network Banner](assets/banner.png) 
 
 ---
 
