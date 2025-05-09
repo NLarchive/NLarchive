@@ -1,5 +1,7 @@
 # 🚀 Nicolas Larenas - AI & Veterinary Visionary 🌌  
-![Profile Banner](assets/banner.png)
+![Dynamic Neural Network Banner](assets/banner.png)  
+
+Want to see my **dynamic banner** in action? [Click Here!](assets/dynamic-banner.html) 
 
 Welcome to my GitHub profile! I specialize in **AI-powered development** and **veterinary innovation**, blending cutting-edge technology with real-world problem-solving.  
 
