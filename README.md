@@ -45,7 +45,7 @@ I’m passionate about building **AI systems**, crafting **interactive storytell
 - **Safe and Reliable AI via Guardrails** (April 2025)  
 - **Building and Evaluating Advanced RAG!** (January 2025)  
 
-*(Full list in my [README](https://www.linkedin.com/in/nicolas-larenas/))*  
+*(Full list in my [Linkedin](https://www.linkedin.com/in/nicolas-larenas/))*  
 
 ---
 
