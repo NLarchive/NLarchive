@@ -34,7 +34,7 @@ I’m passionate about building **AI systems**, crafting **interactive storytell
 - **Features:** Jurisdiction-based copyright analysis, AI queries.  
 - **Impact:** Empowering authors with legal clarity.  
 
-*(Check out more projects [here](https://github.com/NLarchive))*  
+*(Check out more projects [here](https://github.com/NLarchive?tab=repositories))*  
 
 ---
 
@@ -45,7 +45,7 @@ I’m passionate about building **AI systems**, crafting **interactive storytell
 - **Safe and Reliable AI via Guardrails** (April 2025)  
 - **Building and Evaluating Advanced RAG!** (January 2025)  
 
-*(Full list in my [README](https://github.com/NLarchive))*  
+*(Full list in my [README](https://www.linkedin.com/in/nicolas-larenas/))*  
 
 ---
 
@@ -60,4 +60,4 @@ I’m passionate about building **AI systems**, crafting **interactive storytell
 ## 📬 Let’s Connect  
 
 - 🌐 Website: [nlarchive.com](https://nlarchive.com)  
-- 🗣️ Linkedin: [Contact Me](https://www.linkedin.com/in/nicolas-larenas-596125230/)  
+- 🗣️ Linkedin: [Contact Me](https://www.linkedin.com/in/nicolas-larenas/)  
