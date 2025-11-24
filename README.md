@@ -1,4 +1,4 @@
-# 🚀 Nicolas Larenas - AI & Veterinary Visionary 🌌  
+# 🚀 Nicolas Larenas - AI & Veterinary 🌌  
 ![Neural Network Banner](assets/Neural-Networks.gif) 
 
 ---
